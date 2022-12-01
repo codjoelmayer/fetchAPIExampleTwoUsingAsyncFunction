@@ -1,0 +1,25 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "firstName": "Lerato",
+            "lastName": "Henk",
+            "gender": "Female",
+            "email": "lerato@gmail.com"
+        },
+        {
+            "id": 2,
+            "firstName": "James",
+            "lastName": "Mayer",
+            "gender": "Male",
+            "email": "james@gmail.com"
+        },
+        {
+            "id": 3,
+            "firstName": "Sarah",
+            "lastName": "Mukanya",
+            "gender": "Female",
+            "email": "sarah@gmail.com"
+        }
+    ]
+}
